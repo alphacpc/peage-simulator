@@ -28,3 +28,12 @@ streaming/target
 streaming/project
 
 .vscode
+.idea
+.bsp
+spark-kafka-owner/target
+spark-kafka-owner/project
+spark-kafka-owner/.bsp
+spark-kafka-owner/.idea
+project
+target
+spark-kafka-owner

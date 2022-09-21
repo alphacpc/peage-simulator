@@ -8,10 +8,6 @@ tabCars = ["C1", "C2", "C3", "C4"]
 tabCheckPoints = ["Techno pole", "Poste Thiaroye", "Keur Massar", "Rufisque", "Diamniadio"]
 tabPayment = ["Rapido", "Caisse", "Caisse"]
 
-# now = datetime.now()
-# today = datetime.today().strftime('%Y/%m/%d')
-# current_time = now.strftime("%H:%M:%S")
-
 
 producer = KafkaProducer(bootstrap_servers='localhost:9092')
 
